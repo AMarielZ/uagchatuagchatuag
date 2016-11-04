@@ -1,0 +1,21 @@
+{
+    "name": "amarielz/uagchatuagchatuag",
+    "description": "L chat package UAG",
+    "license": "MIT",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "A. Mariel Z.",
+            "email": "anamzamora10@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+          "chatt": "src/"
+        }
+    }
+}
